@@ -1,0 +1,8 @@
+var typed = new Typed('.typing', {
+    strings: [' '
+    , 'shyka mohaned' , 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned', 'mohaned shyka','shyka mohaned'],
+    startDelay: 50,
+    typeSpeed: 150,
+    backSpeed: 100,
+    loopCount: Infinity,
+  });
